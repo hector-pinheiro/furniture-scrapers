@@ -1,0 +1,5 @@
+SOFA = 'sofa'
+BED = 'bed'
+TABLE = 'table'
+CHAIR = 'chair'
+LIGHTING = 'lighting'
