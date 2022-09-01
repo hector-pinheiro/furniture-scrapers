@@ -1,1 +1,1 @@
-# cadeera-scrapers
+# furniture-scrapers
